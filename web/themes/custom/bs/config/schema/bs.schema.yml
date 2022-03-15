@@ -1,0 +1,9 @@
+# Schema for the configuration files of the bs theme.
+
+bs.settings:
+  type: theme_settings
+  label: 'bs settings'
+  mapping:
+    enable_darkmode:
+      type: boolean
+      label: 'The dark mode'
